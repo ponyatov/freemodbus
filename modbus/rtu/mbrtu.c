@@ -33,7 +33,7 @@
 #include "string.h"
 
 /* ----------------------- Platform includes --------------------------------*/
-#include "port.h"
+#include "modbus_port.h"
 
 /* ----------------------- Modbus includes ----------------------------------*/
 #include "mb.h"
